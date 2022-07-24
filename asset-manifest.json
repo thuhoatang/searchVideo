@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searchVideo/static/css/main.2840d026.css",
+    "main.js": "/searchVideo/static/js/main.ff516a3c.js",
+    "index.html": "/searchVideo/index.html",
+    "main.2840d026.css.map": "/searchVideo/static/css/main.2840d026.css.map",
+    "main.ff516a3c.js.map": "/searchVideo/static/js/main.ff516a3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2840d026.css",
+    "static/js/main.ff516a3c.js"
+  ]
+}
